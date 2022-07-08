@@ -1,0 +1,5 @@
+﻿  MPI Projects.cpp
+e:\folders\mpi projects\mpi projects\mpi projects.cpp(167): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  MPI Projects.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MPI Projects.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MPI Projects.vcxproj -> E:\Folders\MPI Projects\Debug\MPI Projects.exe
